@@ -1,11 +1,11 @@
 # Xenn Stealer
-## Fully undetected Stealer written in JavaScript, logs will be sent to your Telegram.
+## Fully undetected FREE Stealer written in JavaScript, logs will be sent to your Telegram. 
 
 [![N|Solid](https://cdn.discordapp.com/attachments/1103097542599770164/1109572392889630790/image.png)](https://nodesource.com/products/nsolid)
 
 ## 🚧 Disclaimer
 
-The stealer is fully undetected and free, to get it contact:
+The stealer is fully undetected and FREE. All I ask for is to split crypto wallets earnings 50% each other. To get it contact:
 
 - Discord: xenn#1399
 - Telegram: @xennstlr
